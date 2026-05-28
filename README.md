@@ -1,11 +1,11 @@
 # Analisis de Ventas de una Empresa
 
 ## Integrantes
-- Fabian
-- Darwin
+- Fabian Tovar - Comisión 21
+- Darwing Lohn - Comisión 20
 
 ## Escenario elegido
-Escenario B
+Escenario B - Análisis de Ventas de una Empresa
 
 ## Funcionalidades
 - Ventas totales
